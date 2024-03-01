@@ -1,0 +1,113 @@
+
+ .caja-1{
+    top: 10px;
+    width: 100px;
+    height: 5px;
+    background-color: #100e0f;
+    position: relative;
+    margin:auto;}
+
+   
+    h4{ 
+        margin-top: 3%;
+        font:RUDA;
+        color:rgb(0, 0, 0) ; 
+        line: height 0;       
+    
+    }
+    h1{
+        line-height: 25%;
+        margin-top: 5px;
+         font: 'RUDA';
+        font-size: 500%;
+        color:#B88940 ; 
+        
+          
+        }
+    h3{ line-height: 25%;
+        font: 'RUDA';
+        color:rgb(15, 15, 14) ; 
+       font-size: 30px;}
+
+    h5 
+       {line-height: 30%;
+        font: 'Catamaran';
+       color:rgb(15, 15, 14) ; 
+       font-size: 20px;
+       }
+    
+       .caja-2 {
+        top: 180px;
+    width: 1200px;
+    height: 30px;
+    background-color: #FFBD59;
+    position: relative;
+    margin:auto;       }
+    
+       .caja-3 {
+        top: 200px;
+    width: 1200px;
+    height: 30px;
+    background-color: #FFBD59;
+    position: relative;
+    margin:auto;
+       }
+       .caja-4 {
+        top: 220px;
+    width: 1200px;
+    height: 30px;
+    background-color: #FFBD59;
+    position: relative;
+    margin:auto;
+       }
+
+       .caja-5 {
+        top: 240px;
+    width: 1200px;
+    height: 30px;
+    background-color: #FFBD59;
+    position: relative;
+    margin:auto;
+       }
+       
+       
+    
+.column {
+    
+    float: left;
+    width: 40%;
+    padding: 10px;
+  
+}
+
+.row {
+    
+    font:'Catamaran';
+     display: flex;
+    position: absolute;
+    z-index: 1;
+    font-size: 30px;
+    color: #000000;
+}
+
+.caja-6 
+       { position:absolute;
+        text-align: center;
+        font: 'Open sans Extra Bold';
+         margin: 400px;
+        margin-top: 550px;
+        line-height: 30%;
+        color:#B88940; 
+       font-size: 60px;
+             
+        
+       }
+       .caja-7 
+       { position:relative;
+        text-align:center;
+        font: 'Catamaran';
+        margin-top: 650px;
+        color:#020202; 
+       font-size: 20px;
+              
+       }
